@@ -1,3 +1,23 @@
+<h3>contextAPI and useReducers hooks in React</h3>
+<p>How we can use contextAPI and useReducers in react component to manipulate the state</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
